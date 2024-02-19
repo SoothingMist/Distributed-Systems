@@ -4,7 +4,7 @@ This is very much an ongoing evolving project that collects quality open-access 
 
 Files: (Filesizes are too large for GitHub. Links are provided to cloud-storage sources.)
 
-LargeFiles: (http://InformationAnthology/MoodleCourseFiles/LargeFiles.zip)
+LargeFiles: (http://InformationAnthology.net/MoodleCourseFiles/LargeFiles.zip)
 Contains a directory of files I was unable to embed into the Moodle framework because of their size. See the ReadMe within the directory for how to place the directory within Moodle's file structure.
 
 backup-moodle2-course-3-distributed_systems-20240217-1615-nu: The Moodle course itself.
