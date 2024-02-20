@@ -7,10 +7,10 @@ This is very much an ongoing evolving project that collects quality open-access 
 Filesizes are too large for GitHub. FTP is used to download the files. FileZilla (https://filezilla-project.org) is an open-access FTP client you can used to get the files. Here is the access information:
 
   FTP Username: `CourseFiles@informationanthology.net`  
-  FTP server: ftp.informationanthology.net
-  FTP and Explicit FTPS port:  21
-  FTP Permissions on Files and Directories: Read Only
-  FTP Password: GuestUser_FTP
+  FTP server: ftp.informationanthology.net  
+  FTP and Explicit FTPS port:  21  
+  FTP Permissions on Files and Directories: Read Only  
+  FTP Password: GuestUser_FTP  
 
 The resulting directory contains the following files:
 
