@@ -20,4 +20,4 @@ Directory of files I was unable to embed into the Moodle framework because of th
 Moodle-DistributedSystems:
 The Moodle-structured course itself. This has to be imported into the Moodle framework.
 
-StandAloneMoodle: An explanation of installing Moodle for stand-alone operation and importing courses. *** Still working on this.
+StandAloneMoodle: An explanation of installing Moodle for stand-alone operation and importing courses.
